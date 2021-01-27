@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Kaan 👋
 
-<!--
-**kaansen57/kaansen57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![VueJs](https://img.shields.io/badge/-VueJs-green)
+![NodeJs](https://img.shields.io/badge/-NodeJs-green)
+![C#](https://img.shields.io/badge/-C%23-blue)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![HTML](https://img.shields.io/badge/-HTML-orange)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I’m currently learning **NodeJs** | **VueJs** | **.Net Core** 
+
+
+### 📬 Social Media
+
+- GitHub: [kaansen57](https://github.com/kaansen57)
+- LinkedIn: [kaansen57](https://linkedin.com/in/kaansen57)
+- Medium: [kaansen57](https://kaansen57.medium.com)
+- E-mail: [Outlook](mailto:kaansen57@outlook.com)
