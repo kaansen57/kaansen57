@@ -26,4 +26,8 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 
 <br>
+</p><br>
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/kaansen57/count.svg" height = 20px />
 </p>
